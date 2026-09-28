@@ -1,34 +1,10 @@
-# Undergraduate Research — Project Record
-
-**A two-person undergraduate research record documenting responsibilities, collaboration and a constrained university demonstration.**
-
-| Context | My contribution | Deliverables |
-|---|---|---|
-| Undergraduate engineering research, 2026 | Modelling, software/hardware integration and test preparation | Thesis, co-authored conference paper and university demonstration |
-
-**Evidence boundary:** the demonstration used a constrained test frame. It does not establish free-flight or complete-system validation. The teammate delivered the conference poster presentation.
-
-This repository is a career record. It contains no executable implementation or operational instructions.
-
-## Original project record / 연구 수행 기록
-
 # 졸업연구 수행 기록
 
 2026년 한동대학교 졸업연구에서 진행한 무인기 제어 연구의 담당 업무와 실물 검증 경험을 정리했습니다. 전자제어공학과 컴퓨터공학을 복수전공하며 배운 내용을 모델링, 소프트웨어 구현, 장치 연동 과정에서 함께 다룬 프로젝트입니다.
 
 이 저장소는 채용 검토를 위한 문서형 포트폴리오입니다. 연구의 배경과 역할, 확인한 결과를 소개하며 실행 코드나 운용 지침은 포함하지 않습니다.
 
-## 프로젝트 개요
-
-| 항목 | 내용 |
-| --- | --- |
-| 수행 시기 | 2026년 1학기 |
-| 수행 형태 | 2인 졸업연구 |
-| 소속 | 한동대학교 기계제어공학부 |
-| 지도교수 | 나원상 교수 |
-| 작성자 | 박상헌 |
-| 연구 배경 | VTOL 재사용 인터셉터 드론을 주제로 한 학부 연구 |
-| 주요 산출물 | 학위논문, 공동저자 학술대회 논문, 교내 실물 시연 |
+2026년 한동대학교에서 진행한 2인 졸업연구이며, 학위논문과 공동저자 학술대회 논문, 교내 실물 시연으로 정리했습니다. 연구 주제는 VTOL 재사용 인터셉터 드론이었습니다.
 
 ## 담당한 업무
 
