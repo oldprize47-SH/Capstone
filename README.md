@@ -1,3 +1,17 @@
+# Undergraduate Research — Project Record
+
+**A two-person undergraduate research record documenting responsibilities, collaboration and a constrained university demonstration.**
+
+| Context | My contribution | Deliverables |
+|---|---|---|
+| Undergraduate engineering research, 2026 | Modelling, software/hardware integration and test preparation | Thesis, co-authored conference paper and university demonstration |
+
+**Evidence boundary:** the demonstration used a constrained test frame. It does not establish free-flight or complete-system validation. The teammate delivered the conference poster presentation.
+
+This repository is a career record. It contains no executable implementation or operational instructions.
+
+## Original project record / 연구 수행 기록
+
 # 졸업연구 수행 기록
 
 2026년 한동대학교 졸업연구에서 진행한 무인기 제어 연구의 담당 업무와 실물 검증 경험을 정리했습니다. 전자제어공학과 컴퓨터공학을 복수전공하며 배운 내용을 모델링, 소프트웨어 구현, 장치 연동 과정에서 함께 다룬 프로젝트입니다.
