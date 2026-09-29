@@ -29,9 +29,9 @@ AI로 생성한 목표 설명용 개념 이미지입니다. 장치 외형과 화
 
 프로젝트는 연구 모델과 분석, 기체·시험 장치 제작, 장치 통합과 실물 시험, 연구 결과 정리로 구성됐습니다. 전세인은 연구 모델과 시뮬레이션 분석, 기체 및 시험 장치 제작을 담당했습니다. 박상헌은 구성요소를 연결하고 시험 프레임에서 동작을 확인하는 통합 시험, 결과 비교, 논문·발표·시연 자료 정리를 담당했습니다.
 
-여기서 자료 정리 담당과 실제 발표자는 구분합니다. 학술대회 포스터 발표는 전세인이 맡았고, 박상헌은 공동저자로 참여했습니다. 교내 실물 시연과 학회 발표는 별개의 활동입니다. 지도 및 교신저자는 나원상 교수입니다.
+역할을 살펴볼 때는 자료 준비와 실제 발표를 나누어 보면 각자의 참여 내용을 더 분명히 이해할 수 있습니다. 학술대회 포스터 발표는 전세인이 맡았고, 박상헌은 공동저자로 참여했습니다. 교내 실물 시연과 학회 발표는 별개의 활동입니다. 지도 및 교신저자는 나원상 교수입니다.
 
-구현 과정에는 AI 코딩 도구도 활용했습니다. 담당 업무는 연구에서 수행한 범위를 설명하며, 모든 코드를 도구의 도움 없이 작성했다는 의미는 아닙니다.
+구현 과정에는 AI 코딩 도구도 활용했습니다. 위 담당 업무는 도구의 도움을 포함해 연구에서 맡아 수행한 범위를 설명하며, 모든 코드를 직접 작성했다는 뜻으로 제시한 것은 아닙니다.
 
 ### 수행 과정에서 다룬 문제
 
@@ -41,13 +41,13 @@ AI로 생성한 목표 설명용 개념 이미지입니다. 장치 외형과 화
 
 ### 결과와 확인 범위
 
-교내 최종발표에서는 외란을 받은 기체가 시험 프레임의 기준 자세로 돌아오는 동작을 시연했습니다. 이 결과는 프레임에 구속된 조건에서 관찰한 실물 응답입니다. 자유비행이나 전체 유도·비행 시스템의 통합 검증을 완료한 결과로 해석하지 않습니다.
+교내 최종발표에서는 외란을 받은 기체가 시험 프레임의 기준 자세로 돌아오는 동작을 시연했습니다. 이 결과는 프레임에 구속된 조건에서 관찰한 실물 응답입니다. 결과를 살펴볼 때는 이 시험 조건을 함께 고려해야 합니다. 자유비행이나 전체 유도·비행 시스템의 통합 검증까지 완료한 결과는 아닙니다.
 
 연구 내용은 학위논문과 별도의 학술대회 논문으로 정리했습니다. 학술대회 포스터 발표는 전세인이 맡았으며 박상헌은 공동저자로 참여했습니다. 교내 실물 시연과 학회 발표는 서로 다른 활동입니다.
 
 ### 결과를 읽을 때 구분할 점
 
-모델에서 확인한 응답, 시험 프레임에서 관찰한 동작, 학위논문과 학술대회 논문은 서로 다른 근거입니다. 모델과 실물의 차이를 살펴본 과정은 수행 과정에, 시연에서 관찰한 내용은 결과에, 공동저자와 발표 이력은 아래 학술 기록에 정리했습니다. 프레임에 구속된 시험 결과를 자유비행이나 전체 시스템의 검증으로 확대하지 않습니다.
+모델에서 확인한 응답, 시험 프레임에서 관찰한 동작, 학위논문과 학술대회 논문은 서로 다른 근거입니다. 모델과 실물의 차이를 살펴본 과정은 수행 과정에, 시연에서 관찰한 내용은 결과에, 공동저자와 발표 이력은 아래 학술 기록에 정리했습니다. 이 기록을 읽을 때는 프레임에 구속된 시험에서 확인한 범위로 이해하면 됩니다. 자유비행이나 전체 시스템의 검증은 이 결과에 포함되지 않습니다.
 
 ### 관련 학술 기록
 
@@ -90,9 +90,9 @@ An overview prepared from the code and report. The actual results and scope of v
 
 The project comprised research modelling and analysis, aircraft and test apparatus construction, apparatus integration and physical testing, and documentation of the research results. 전세인 was responsible for the research model, simulation analysis, and construction of the aircraft and test apparatus. Sangheon Park (박상헌) was responsible for integration tests that connected the components and checked their behaviour on the test frame, comparison of results, and preparation of paper, presentation and demonstration materials.
 
-Responsibility for preparing materials is distinguished here from the role of the actual presenter. 전세인 gave the conference poster presentation, and Sangheon Park (박상헌) participated as a co-author. The on-campus physical demonstration and the conference presentation were separate activities. Professor 나원상 was the supervisor and corresponding author.
+Reading the preparation and presentation roles separately helps clarify each person's contribution. 전세인 gave the conference poster presentation, and Sangheon Park (박상헌) participated as a co-author. The on-campus physical demonstration and the conference presentation were separate activities. Professor 나원상 was the supervisor and corresponding author.
 
-AI coding tools were also used during implementation. The responsibilities describe the work carried out in the research; they do not imply that all code was written without tool assistance.
+AI coding tools also supported implementation. The responsibilities above describe the work carried out with that assistance included, rather than suggesting that all code was written without tools.
 
 ### Issues addressed during the work
 
@@ -102,13 +102,13 @@ Controller failure and communication problems also occurred during presentation 
 
 ### Results and scope of verification
 
-At the final on-campus presentation, the team demonstrated the aircraft returning to the test frame's reference attitude after a disturbance. This was a physical response observed under frame-constrained conditions. It should not be interpreted as completed validation of free flight or integrated validation of the full guidance and flight system.
+At the final on-campus presentation, the team demonstrated the aircraft returning to the test frame's reference attitude after a disturbance. This was a physical response observed under frame-constrained conditions. These test conditions matter when reading the result: validation of free flight and integrated validation of the full guidance and flight system were outside what this demonstration established.
 
 The research was documented in a thesis and a separate conference paper. 전세인 gave the conference poster presentation, and Sangheon Park (박상헌) participated as a co-author. The on-campus physical demonstration and the conference presentation were different activities.
 
 ### Distinctions to keep in mind when reading the results
 
-The responses examined in the model, the behaviour observed on the test frame, and the thesis and conference paper are different forms of evidence. The process of examining differences between the model and physical apparatus is described in the account of the work, the observations from the demonstration are described in the results, and the co-authorship and presentation history are listed in the academic record below. Frame-constrained test results are not extended to validation of free flight or the full system.
+The responses examined in the model, the behaviour observed on the test frame, and the thesis and conference paper are different forms of evidence. The process of examining differences between the model and physical apparatus is described in the account of the work, the observations from the demonstration are described in the results, and the co-authorship and presentation history are listed in the academic record below. Read these findings within the frame-constrained test conditions; validation of free flight or the full system is not included in those results.
 
 ### Related academic record
 
@@ -118,4 +118,4 @@ The responses examined in the model, the behaviour observed on the test frame, a
 - Poster presentation date: 2026-07-09
 - Conference paper authors: 전세인 (poster presenter), Sangheon Park (박상헌; co-author), 나원상 (corresponding author)
 
-The thesis and conference paper are separate outputs. This document contains only the history of the research work and the scope of verification.
+The thesis and conference paper are separate outputs. You can use this document to follow the research history and scope of verification, which define the limits of its coverage.
