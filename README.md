@@ -10,6 +10,8 @@
 
 ## 한국어
 
+[자료 읽는 순서](#자료-읽는-순서)
+
 
 
 2026년 한동대학교에서 진행한 2인 졸업연구입니다. 무인기 연구에서 모델과 실물 시험 장치의 응답을 비교하고, 기체 제작과 소프트웨어·센서·구동부를 통합하는 과정을 다뤘습니다. 연구 주제는 VTOL 재사용 인터셉터 드론이었으며, 이 저장소는 연구의 구성과 수행 이력, 확인한 결과를 설명하는 문서형 기록입니다. 실행 코드나 운용 지침은 포함하지 않습니다.
@@ -24,11 +26,11 @@
 
 
 
-![Project goal: Capstone-Research-Portfolio](docs/goals/project-focus-v1.png)
+![Project goal: Capstone-Research-Portfolio](docs/goals/goal.png)
 
 
 
-AI로 생성한 목표 설명용 개념 이미지입니다. 장치 외형과 화면·그래프는 예시이며 실제 프로젝트 사진이나 측정 결과가 아닙니다.
+<sub>AI 생성 개념도</sub>
 
 
 
@@ -48,7 +50,7 @@ AI로 생성한 목표 설명용 개념 이미지입니다. 장치 외형과 화
 
 
 
-코드와 보고서를 바탕으로 정리한 개략도입니다. 실제 결과와 확인 범위는 아래에 설명합니다. [SVG](docs/flowcharts/capstone.svg)
+<sub>[SVG](docs/flowcharts/capstone.svg)</sub>
 
 
 
@@ -120,6 +122,10 @@ AI로 생성한 목표 설명용 개념 이미지입니다. 장치 외형과 화
 
 
 
+### 자료 읽는 순서
+
+이 저장소는 실행 코드가 없는 연구 기록입니다. 먼저 프로젝트 목표와 구성·역할을 읽고, 아래 시험 결과와 시연 자료에서 무엇을 관찰했는지 확인한 뒤 학술 기록과 연결해 읽어 주세요. 개념도는 연구 흐름을 안내하며, 실제 시험 근거는 결과 설명과 연결된 자료입니다. 코드 실행 튜토리얼로 오해하지 않도록 연구 자료의 읽는 순서를 안내합니다.
+
 ---
 
 
@@ -127,6 +133,8 @@ AI로 생성한 목표 설명용 개념 이미지입니다. 장치 외형과 화
 <a id="english"></a>
 
 ## English
+
+[Reading guide](#reading-the-research-record)
 
 
 
@@ -146,11 +154,11 @@ The project compares the responses predicted by the research model with the phys
 
 
 
-![Project goal: Capstone-Research-Portfolio](docs/goals/project-focus-v1.png)
+![Project goal: Capstone-Research-Portfolio](docs/goals/goal.png)
 
 
 
-This is an AI-generated concept image illustrating the project goal. The device appearance, screens and graphs are examples, not actual project photographs or measured results.
+<sub>AI-generated concept illustration</sub>
 
 
 
@@ -170,7 +178,7 @@ The process of comparing model and physical responses can inform experimental de
 
 
 
-An overview prepared from the code and report. The actual results and scope of verification are described below. [SVG](docs/flowcharts/capstone.svg)
+<sub>[SVG](docs/flowcharts/capstone.svg)</sub>
 
 
 
@@ -240,3 +248,6 @@ The responses examined in the model, the behaviour observed on the test frame, a
 
 The thesis and conference paper are separate outputs. You can use this document to follow the research history and scope of verification, which define the limits of its coverage.
 
+### Reading the research record
+
+This repository contains documentation rather than executable code. Read the goal and team configuration first, inspect the reported tests and linked demonstration material, then connect those observations to the academic record. The concept diagram introduces the workflow; the results and linked records provide the experiment evidence. This is a reading guide, not an execution tutorial.
